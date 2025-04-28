@@ -15,6 +15,6 @@ $ npm install
 ## Compile and run the project
 
 ```bash
-# development
+# run server
 $ docker compose up
 ```
